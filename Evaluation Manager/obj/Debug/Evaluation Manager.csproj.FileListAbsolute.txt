@@ -1,0 +1,23 @@
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\bin\Debug\Evaluation Manager.exe.config
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\bin\Debug\Evaluation Manager.exe
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\bin\Debug\Evaluation Manager.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.SuggestedBindingRedirects.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.exe
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation_Manager.FrmLogin.resources
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\bin\Debug\Evaluation Manager.exe.config
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\bin\Debug\Evaluation Manager.exe
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\bin\Debug\Evaluation Manager.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.SuggestedBindingRedirects.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation_Manager.FrmLogin.resources
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation_Manager.FrmStudents.resources
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation_Manager.Properties.Resources.resources
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.GenerateResource.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.CoreCompileInputs.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.exe
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\obj\Debug\Evaluation Manager.pdb

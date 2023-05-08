@@ -1,0 +1,12 @@
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\obj\Debug\DBLayer.csproj.AssemblyReference.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\obj\Debug\DBLayer.csproj.CoreCompileInputs.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\bin\Debug\DBLayer.dll
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\bin\Debug\DBLayer.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\obj\Debug\DBLayer.dll
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\DBLayer\obj\Debug\DBLayer.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\bin\Debug\DBLayer.dll
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\bin\Debug\DBLayer.pdb
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\obj\Debug\DBLayer.csproj.AssemblyReference.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\obj\Debug\DBLayer.csproj.CoreCompileInputs.cache
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\obj\Debug\DBLayer.dll
+B:\FOI\FOI Materijali\Programsko inženjerstvo\Vježba 1\Evaluation Manager\DBLayer\obj\Debug\DBLayer.pdb
