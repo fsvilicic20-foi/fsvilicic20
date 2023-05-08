@@ -47,5 +47,13 @@ namespace Evaluation_Manager
         {
             Close();
         }
+
+        private void txtTeacher_TextChanged(object sender, EventArgs e) {
+
+        }
+        
+        private void txtEvaluationDate_TextChanged(object sender, EventArgs e) {
+
+        }
     }
 }

@@ -143,6 +143,7 @@ namespace Evaluation_Manager
             this.txtTeacher.ReadOnly = true;
             this.txtTeacher.Size = new System.Drawing.Size(100, 20);
             this.txtTeacher.TabIndex = 10;
+            this.txtTeacher.TextChanged += new System.EventHandler(this.txtTeacher_TextChanged);
             // 
             // txtEvaluationDate
             // 
@@ -151,6 +152,7 @@ namespace Evaluation_Manager
             this.txtEvaluationDate.ReadOnly = true;
             this.txtEvaluationDate.Size = new System.Drawing.Size(100, 20);
             this.txtEvaluationDate.TabIndex = 11;
+            this.txtEvaluationDate.TextChanged += new System.EventHandler(this.txtEvaluationDate_TextChanged);
             // 
             // btnSave
             // 
