@@ -44,5 +44,9 @@ namespace Evaluation_Manager
                 frmEvaluation.ShowDialog();
             }
         }
+
+        private void dgvStudents_CellContentClick(object sender, DataGridViewCellEventArgs e) {
+
+        }
     }
 }

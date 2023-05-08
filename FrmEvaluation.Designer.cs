@@ -73,6 +73,7 @@ namespace Evaluation_Manager
             this.label3.Size = new System.Drawing.Size(84, 13);
             this.label3.TabIndex = 2;
             this.label3.Text = "Uvjet za ocjenu:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -118,6 +119,7 @@ namespace Evaluation_Manager
             this.txtMinForSignature.ReadOnly = true;
             this.txtMinForSignature.Size = new System.Drawing.Size(100, 20);
             this.txtMinForSignature.TabIndex = 7;
+            this.txtMinForSignature.TextChanged += new System.EventHandler(this.txtMinForSignature_TextChanged);
             // 
             // txtMinForGrade
             // 
@@ -126,6 +128,7 @@ namespace Evaluation_Manager
             this.txtMinForGrade.ReadOnly = true;
             this.txtMinForGrade.Size = new System.Drawing.Size(100, 20);
             this.txtMinForGrade.TabIndex = 8;
+            this.txtMinForGrade.TextChanged += new System.EventHandler(this.txtMinForGrade_TextChanged);
             // 
             // txtActivityDescription
             // 
@@ -162,6 +165,7 @@ namespace Evaluation_Manager
             this.btnSave.TabIndex = 12;
             this.btnSave.Text = "Spremi";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnCancel
             // 

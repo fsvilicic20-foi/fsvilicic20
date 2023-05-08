@@ -55,5 +55,21 @@ namespace Evaluation_Manager
         private void txtEvaluationDate_TextChanged(object sender, EventArgs e) {
 
         }
+
+        private void btnSave_Click(object sender, EventArgs e) {
+
+        }
+
+        private void txtMinForSignature_TextChanged(object sender, EventArgs e) {
+
+        }
+
+        private void txtMinForGrade_TextChanged(object sender, EventArgs e) {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e) { 
+
+        }
     }
 }
